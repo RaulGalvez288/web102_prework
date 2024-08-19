@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - RGames Studio
 
 Submitted by: Raul Galvez
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+RGames Studio is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 4 hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
@@ -35,10 +35,10 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+Throughout the process, I had some challenges which included adding the search functionality. I was able to achieve this by using the filter() and using the previous implementation of the buttons as a guide. Another challenge was creating the new HTML elements within the Javascript file that would then be appended to the games-container. 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Raul Galvez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
