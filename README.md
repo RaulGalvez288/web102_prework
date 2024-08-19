@@ -33,8 +33,6 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 Throughout the process, I had some challenges which included adding the search functionality. I was able to achieve this by using the filter() and using the previous implementation of the buttons as a guide. Another challenge was creating the new HTML elements within the Javascript file that would then be appended to the games-container. 
 ## License
 
