@@ -21,8 +21,13 @@ body {
 
 .stats-container {
     display: flex;
-}
+    align-items: center;
 
+}
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+    }
 .stats-card {
     background-color: #a8b0bc;
     border-radius: 7px;
@@ -64,6 +69,11 @@ body {
 
 #button-container {
     text-align: center;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    margin: auto;
+
 }
 
 button {
@@ -73,3 +83,26 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+.search-wrapper {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+}
+
+#search-game {
+    font-family: 'Cabin';
+    border: 1px solid;
+    padding: 1%;
+    margin: 1%;
+    width:50%;
+    max-width: 440px;
+}
+
+.hide {
+    display: none;
+}
+
