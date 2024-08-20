@@ -24,9 +24,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="gallery/web102-prework-ZBikL4i">
-  <a href="https://imgur.com/gallery/web102-prework-ZBikL4i" target="_blank">View on Imgur</a>
+  <img href="https://imgur.com/gallery/web102-prework-ZBikL4i" target="_blank">View on Imgur</a>
 </blockquote>
-<script async src="https://s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
