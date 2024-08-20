@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Rgames GIF Walkthrough](https://i.imgur.com/yourgifid.gif)
+![Rgames GIF Walkthrough](https://imgur.com/gallery/web102-prework-ZBikL4i)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
