@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<a src="https://imgur.com/gallery/web102-prework-ZBikL4i">GIF Walkthrough</a>
+<a href="https://imgur.com/gallery/web102-prework-ZBikL4i">GIF Walkthrough</a>
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
 <!-- Recommended tools:
