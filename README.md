@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZBikL4i" data-context="false" ><a href="//imgur.com/a/ZBikL4i">Web102 Prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Rgames GIF Walkthrough](https://imgur.com/gallery/web102-prework-ZBikL4i)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
 <!-- Recommended tools:
