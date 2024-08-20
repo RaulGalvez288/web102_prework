@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="gallery/web102-prework-ZBikL4i">
-  <img href="https://imgur.com/gallery/web102-prework-ZBikL4i" target="_blank">View on Imgur</a>
-</blockquote>
+<img src="https://i.imgur.com/yourgifid.gif" alt="RGames GIF Prework">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
